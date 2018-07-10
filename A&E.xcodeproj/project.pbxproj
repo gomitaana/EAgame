@@ -293,7 +293,7 @@
 				TargetAttributes = {
 					EEE8E2ED19F82D9900B13713 = {
 						CreatedOnToolsVersion = 6.1;
-						DevelopmentTeam = 26C3DC2974;
+						DevelopmentTeam = WM7TTPY6UC;
 						LastSwiftMigration = 0820;
 					};
 					EEE8E30619F82D9900B13713 = {
@@ -520,11 +520,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 26C3DC2974;
+				DEVELOPMENT_TEAM = WM7TTPY6UC;
 				INFOPLIST_FILE = UberJump/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.CompanyName.AEgame;
+				PRODUCT_BUNDLE_IDENTIFIER = com.athome.AEgame;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				SWIFT_VERSION = 3.0;
@@ -537,11 +537,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 26C3DC2974;
+				DEVELOPMENT_TEAM = WM7TTPY6UC;
 				INFOPLIST_FILE = UberJump/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.CompanyName.AEgame;
+				PRODUCT_BUNDLE_IDENTIFIER = com.athome.AEgame;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				SWIFT_VERSION = 3.0;
